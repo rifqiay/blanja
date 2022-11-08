@@ -57,7 +57,7 @@ Open **.env** file on code editor and copy the code below :
 
 ## Related Project
 
-:rocket: [`Demo Peworld`](https://fe-blanja.vercel.app)
+:rocket: [`Demo blanja`](https://fe-blanja.vercel.app)
 
 ## Contact
 

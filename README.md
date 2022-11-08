@@ -103,7 +103,7 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Related Project
 
-:rocket: [`Demo Peworld`](https://fe-blanja.vercel.app)
+:rocket: [`Demo blanja`](https://fe-blanja.vercel.app)
 
 ## Contact
 
