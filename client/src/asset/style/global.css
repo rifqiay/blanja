@@ -1,0 +1,179 @@
+* {
+  font-family: "Metropolis", sans-serif;
+}
+
+.hv {
+  height: 100vh !important;
+}
+
+.test {
+  background-color: aqua;
+}
+
+.shadow {
+  box-shadow: rgba(173, 173, 173, 0.25);
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show .nav-link {
+  color: #fff !important;
+  background-color: #c82333 !important;
+}
+
+.nav-link {
+  color: #000 !important;
+}
+
+a:link,
+a:visited,
+a:hover {
+  color: #c82333 !important;
+  text-decoration: none;
+}
+
+.firstSection {
+  margin-top: 100px;
+}
+
+.control {
+  width: 50px;
+  cursor: pointer;
+}
+
+.btn-full {
+  width: 100%;
+}
+
+.accordion-item {
+  border: none !important;
+}
+
+.accordion-button:not(.collapsed) {
+  color: none !important;
+  background-color: none !important;
+  box-shadow: none !important;
+}
+
+.accordion-button:focus {
+  z-index: 3 !important;
+  border-color: none !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+}
+
+.accordion-header {
+  margin-bottom: -15px !important;
+}
+
+.accordion-button:not(.collapsed) {
+  color: black !important;
+  background-color: white !important;
+  box-shadow: none !important;
+}
+
+.accordion-button {
+  width: 60%;
+}
+
+.icon {
+  position: relative;
+  right: -39px;
+  top: 11px;
+  z-index: 4;
+  width: 150%;
+}
+
+.bg-main {
+  background-color: #f5f5f5;
+}
+
+.mr {
+  margin: 0 10px;
+}
+
+.pointer {
+  cursor: pointer !important;
+}
+
+@media screen and (max-width: 600px) {
+  .content-register {
+    width: 100% !important;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 992px) {
+  .content {
+    width: 70% !important;
+  }
+
+  .content-register {
+    width: 70% !important;
+  }
+}
+
+@media screen and (min-width: 992px) {
+  .content {
+    width: 40%;
+  }
+
+  .input-search {
+    order: 2;
+    position: relative;
+    right: -87px;
+  }
+  .input-search input {
+    width: 414px;
+    border-radius: 20px;
+  }
+
+  .input-search button {
+    border: none;
+    position: relative;
+    left: -2px;
+    top: -3px;
+    z-index: 1;
+    /* background-color: #fff; */
+  }
+
+  .input-search button:hover {
+    background-color: rgba(255, 255, 255, 0);
+  }
+
+  .navigation {
+    order: 3;
+    position: relative;
+    right: -207px;
+  }
+
+  .mr-ml {
+    margin: 0 20px;
+  }
+
+  .btn-width {
+    width: 100px;
+  }
+
+  .filter {
+    position: relative;
+    left: -100px;
+  }
+
+  .profil {
+    position: relative;
+    right: -155px;
+  }
+
+  .mail {
+    position: relative;
+    right: -120px;
+  }
+  .cart {
+    position: relative;
+    right: -46px;
+  }
+
+  .notif {
+    position: relative;
+    right: -85px;
+  }
+}
