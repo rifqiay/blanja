@@ -65,18 +65,18 @@ REACT_APP_API_BACKEND=
   </tr>
   <tr>
     <td><image src="./ScreenShoot/home.png" alt="home page" width=100% ></td>
-    <td><image src="./ScreenShoot/search page.png" alt="search page" width=100%></td>
+    <td><image src="./ScreenShoot/detail.png" alt="detail product" width=100%></td>
   </tr>
    <tr>
    <td>Home Page</td>
-    <td>Search Page</td>
+    <td>Detail Product Page</td>
   </tr>
   <tr>
-    <td><image src="./ScreenShoot/detail.png" alt="detail product" width=100%></td>
+    <td><image src="./ScreenShoot/search page.png" alt="search" width=100%></td>
         <td><image src="./ScreenShoot/selling product.png" alt="selling product" width=100%></td>
   </tr>
   <tr>
-      <td>Detail Product Page</td>
+      <td>Search Page</td>
        <td>Selling Product Page</td>
  </tr>
   <tr>
